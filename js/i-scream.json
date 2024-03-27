@@ -21,5 +21,18 @@
         "type": "milkshake-ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base", "Chocolate Syrup"],
         "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Vanilla Chocolate Chip",
+        "calories": 210,
+        "type": "ice-cream",
+        "ingredients": ["Vanilla Base", "Chocolate Chips"],
+        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/ice-cream-xtra2.svg"
+    },
+    {
+        "name": "Paan cream",
+        "calories": 320,
+        "type": "ice-cream",
+        "ingredients": ["colorful cherry", "Paan flavoured milk Base"],
+        "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/ice-cream-xtra1.svg"
     }]
 }
